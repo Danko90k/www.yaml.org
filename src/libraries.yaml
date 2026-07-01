@@ -1,5 +1,5 @@
 Ada:
-- name: AdaYaml
+- name: Danko90k/www.yaml.org
   desc: Experimental YAML 1.3 implementation in Ada
   site: https://github.com/yaml/AdaYaml
   icon: material-code-braces
